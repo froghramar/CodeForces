@@ -8,6 +8,7 @@
     <ItemGroup>
         <Compile Include="2114\A.fs" />
         <Compile Include="2114\B.fs" />
+        <Compile Include="2114\C.fs" />
     </ItemGroup>
 
 </Project>
