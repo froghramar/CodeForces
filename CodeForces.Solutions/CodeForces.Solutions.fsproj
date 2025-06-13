@@ -10,6 +10,7 @@
         <Compile Include="2114\B.fs" />
         <Compile Include="2114\C.fs" />
         <Compile Include="2114\D.fs" />
+        <Compile Include="2114\E.fs" />
     </ItemGroup>
 
 </Project>
