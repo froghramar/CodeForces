@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "CodeForces.Solutions", "CodeForces.Solutions\CodeForces.Solutions.fsproj", "{076BA44B-FBFF-49E3-BA8C-E9608460055F}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "CodeForces.Solutions.2114", "CodeForces.Solutions.2114\CodeForces.Solutions.2114.fsproj", "{076BA44B-FBFF-49E3-BA8C-E9608460055F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
